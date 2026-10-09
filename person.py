@@ -1,7 +1,6 @@
 from typing import Optional
 from pet import Pet
 
-
 class Person:
 
     def __init__(self, name: str, pet: Optional[Pet] = None) -> None:

@@ -1,8 +1,6 @@
 from animal import Animal
 
-
 class Turtle(Animal):
-
     def __init__(self, name: str, age: int) -> None:
         super().__init__(name, age)
 

@@ -2,7 +2,6 @@ from parrot import Parrot
 from turtle import Turtle
 from person import Person
 
-
 def main() -> None:
     kesha = Parrot("Kesha", 2)
     zavala = Turtle("Zavala", 4)
